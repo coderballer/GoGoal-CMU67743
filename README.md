@@ -3,6 +3,10 @@
 
 GoGoal is an innovative app that helps people track, achieve and share their goals. Featured by an interactive community, users can connect by the same subscribed topics and get motivated by each other's progress and achievements.
 
+<p float="middle">
+<img src="https://github.com/coderballer/GoGoal-CMU67743/blob/main/Screenshot.jpg" alt="Architecture" width="1500" />
+</p>
+
 ## Useful links
 
 [Final project presentation](https://docs.google.com/presentation/d/1SRsgQ4quoIOuaUlc-RLGU8klx2Eesj9jjpp4KJIZx5U/edit?usp=sharing) (including app demo)
